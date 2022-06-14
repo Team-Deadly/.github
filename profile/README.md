@@ -11,4 +11,5 @@
   
 </div>
 
-[![TeleGram](https://img.shields.io/badge/-Telegra-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/ShaKaOp)
+[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/Deadly_spam_bot)
+[![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/Deadly_spambot)
